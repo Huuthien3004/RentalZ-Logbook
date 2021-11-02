@@ -1,0 +1,7 @@
+[ 
+  {"name": "Please choose a furniture style", "code": "F0"}, 
+    {"name": "Furnished", "code": "F1"}, 
+    {"name": "Unfurnished", "code": "F2"}, 
+    {"name": "Part Furnished", "code": "F3"}
+
+  ]

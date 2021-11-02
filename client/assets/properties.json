@@ -1,0 +1,7 @@
+[ 
+  {"name": "Please choose a property", "code": "P0"}, 
+    {"name": "Flat", "code": "P1"}, 
+    {"name": "House", "code": "P2"}, 
+    {"name": "Bungalow", "code": "P3"}
+
+  ]
